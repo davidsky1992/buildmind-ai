@@ -7,7 +7,7 @@
 > - The public website **does not connect to the MCP server.** The MCP server is a separate project that you run locally.
 > - This is a portfolio demo, not a production-grade autonomous AI system. All projects, companies and documents are fictional.
 
-**Live demo:** _add your Vercel URL here after deploying (see [Deployment](#deployment))_
+**Live demo:** https://buildmind-ai-nine.vercel.app (no login, no API key)
 
 ![Demo](docs/demo.gif)
 
@@ -128,7 +128,7 @@ The frontend is a plain static build: **no environment variables, no secrets, no
 1. Push this repository to GitHub.
 2. In Vercel, choose **Add New → Project → Import** your repo.
 3. Set **Root Directory** to `web`. The framework preset (**Vite**), build command (`npm run build`) and output directory (`dist`) are read from [web/vercel.json](web/vercel.json).
-4. Click **Deploy**, then paste the production URL at the top of this README.
+4. Click **Deploy**. The current production deployment is https://buildmind-ai-nine.vercel.app.
 
 CLI alternative: `cd web && npx vercel --prod`.
 
