@@ -1,0 +1,40 @@
+{
+  "name": "buildmind-ai-web",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -p . && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "typecheck": "tsc -p .",
+    "e2e": "node scripts/e2e-screenshots.mjs",
+    "demo-gif": "node scripts/make-demo-gif.mjs",
+    "sample-pdf": "node scripts/make-sample-pdf.mjs"
+  },
+  "dependencies": {
+    "idb": "^8.0.4",
+    "pdfjs-dist": "^6.5.438",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.3.0",
+    "fake-indexeddb": "^6.2.8",
+    "gifenc": "^1.0.3",
+    "playwright-core": "^1.65.1",
+    "pngjs": "^7.0.0",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8",
+    "vitest": "^5.1.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

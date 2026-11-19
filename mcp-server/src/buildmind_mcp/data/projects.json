@@ -1,0 +1,313 @@
+{
+  "asOfDate": "2026-11-15",
+  "projects": [
+    {
+      "id": "BM-101",
+      "name": "Riverside Regional Hospital Expansion",
+      "type": "Healthcare",
+      "client": "Riverside Health System",
+      "city": "Sacramento",
+      "state": "CA",
+      "status": "Delayed",
+      "contractValue": 184500000,
+      "costToDate": 112300000,
+      "percentComplete": 58,
+      "startDate": "2024-03-04",
+      "plannedCompletion": "2027-02-26",
+      "forecastCompletion": "2027-05-14",
+      "actualCompletion": null,
+      "projectManager": "Elena Marquez",
+      "generalContractor": "Granite Peak Builders",
+      "liquidatedDamagesPerDay": 25000,
+      "contractDocument": "BM-GC-2024 General Conditions",
+      "description": "Six-storey, 210-bed patient tower with a new emergency department, two hybrid operating rooms and a central utility plant connected to the existing campus.",
+      "milestones": [
+        { "name": "Foundations complete", "planned": "2024-09-30", "forecast": "2024-10-18", "actual": "2024-10-18" },
+        { "name": "Structural steel topped out", "planned": "2025-08-29", "forecast": "2025-11-07", "actual": "2025-11-07" },
+        { "name": "MEP rough-in complete", "planned": "2026-06-30", "forecast": "2026-10-02", "actual": "2026-10-02" },
+        { "name": "Building envelope dry-in", "planned": "2026-07-31", "forecast": "2026-12-11", "actual": null },
+        { "name": "HCAI final inspection", "planned": "2027-01-29", "forecast": "2027-04-16", "actual": null }
+      ],
+      "risks": [
+        { "title": "Shortage of certified medical gas installers", "severity": "High" },
+        { "title": "HCAI plan-check turnaround for change orders", "severity": "High" },
+        { "title": "Long-lead switchgear delivery", "severity": "Medium" }
+      ]
+    },
+    {
+      "id": "BM-102",
+      "name": "Harbor Point Mixed-Use Tower",
+      "type": "Mixed-Use",
+      "client": "Harbor Point Development LLC",
+      "city": "Seattle",
+      "state": "WA",
+      "status": "Delayed",
+      "contractValue": 226000000,
+      "costToDate": 197400000,
+      "percentComplete": 88,
+      "startDate": "2023-11-06",
+      "plannedCompletion": "2026-12-18",
+      "forecastCompletion": "2027-01-08",
+      "actualCompletion": null,
+      "projectManager": "David Okafor",
+      "generalContractor": "Pacific Crest Construction",
+      "liquidatedDamagesPerDay": 18000,
+      "contractDocument": "BM-GC-2024 General Conditions",
+      "description": "32-storey tower with 290 residential units over two floors of retail and four levels of below-grade parking on the waterfront.",
+      "milestones": [
+        { "name": "Below-grade parking complete", "planned": "2024-07-26", "forecast": "2024-07-19", "actual": "2024-07-19" },
+        { "name": "Concrete core topped out", "planned": "2025-09-12", "forecast": "2025-09-26", "actual": "2025-09-26" },
+        { "name": "Curtain wall closed in", "planned": "2026-06-19", "forecast": "2026-07-10", "actual": "2026-07-10" },
+        { "name": "Temporary certificate of occupancy", "planned": "2026-12-18", "forecast": "2027-01-08", "actual": null }
+      ],
+      "risks": [
+        { "title": "Elevator commissioning backlog", "severity": "Medium" },
+        { "title": "Winter weather affecting rooftop amenity deck", "severity": "Low" }
+      ]
+    },
+    {
+      "id": "BM-103",
+      "name": "Cedar Creek Bridge Replacement",
+      "type": "Infrastructure",
+      "client": "Idaho Transportation Department",
+      "city": "Boise",
+      "state": "ID",
+      "status": "Delayed",
+      "contractValue": 42800000,
+      "costToDate": 36100000,
+      "percentComplete": 84,
+      "startDate": "2025-04-07",
+      "plannedCompletion": "2026-10-30",
+      "forecastCompletion": "2026-12-11",
+      "actualCompletion": null,
+      "projectManager": "Priya Raman",
+      "generalContractor": "Sawtooth Heavy Civil",
+      "liquidatedDamagesPerDay": 8500,
+      "contractDocument": "BM-GC-2024 General Conditions",
+      "description": "Replacement of a 1962 three-span bridge with a 410 ft precast girder bridge, including approach roadway, scour protection and a shared-use path.",
+      "milestones": [
+        { "name": "Temporary detour bridge open", "planned": "2025-05-30", "forecast": "2025-05-30", "actual": "2025-05-30" },
+        { "name": "Pier foundations complete", "planned": "2025-09-26", "forecast": "2025-11-14", "actual": "2025-11-14" },
+        { "name": "Girders set", "planned": "2026-04-24", "forecast": "2026-06-05", "actual": "2026-06-05" },
+        { "name": "Deck pour and cure", "planned": "2026-08-14", "forecast": "2026-09-25", "actual": "2026-09-25" },
+        { "name": "Bridge open to traffic", "planned": "2026-10-30", "forecast": "2026-12-11", "actual": null }
+      ],
+      "risks": [
+        { "title": "In-water work window closed by fisheries permit", "severity": "High" },
+        { "title": "Cold-weather concrete for approach slabs", "severity": "Medium" }
+      ]
+    },
+    {
+      "id": "BM-104",
+      "name": "Northgate Logistics Distribution Center",
+      "type": "Industrial",
+      "client": "Northgate Logistics Inc.",
+      "city": "Columbus",
+      "state": "OH",
+      "status": "On Track",
+      "contractValue": 67200000,
+      "costToDate": 61800000,
+      "percentComplete": 93,
+      "startDate": "2025-06-02",
+      "plannedCompletion": "2026-12-04",
+      "forecastCompletion": "2026-11-25",
+      "actualCompletion": null,
+      "projectManager": "Marcus Lee",
+      "generalContractor": "Buckeye Industrial Group",
+      "liquidatedDamagesPerDay": 6000,
+      "contractDocument": "BM-GC-2024 General Conditions",
+      "description": "1.1 million sq ft tilt-up distribution center with 180 dock doors, ESFR sprinklers and a 40,000 sq ft two-storey office.",
+      "milestones": [
+        { "name": "Slab on grade complete", "planned": "2025-10-17", "forecast": "2025-10-10", "actual": "2025-10-10" },
+        { "name": "Tilt-up panels erected", "planned": "2026-02-27", "forecast": "2026-02-20", "actual": "2026-02-20" },
+        { "name": "Roof complete", "planned": "2026-05-29", "forecast": "2026-05-22", "actual": "2026-05-22" },
+        { "name": "Substantial completion", "planned": "2026-12-04", "forecast": "2026-11-25", "actual": null }
+      ],
+      "risks": [
+        { "title": "Utility transformer energization date", "severity": "Low" }
+      ]
+    },
+    {
+      "id": "BM-105",
+      "name": "Westfield Elementary School Modernization",
+      "type": "Education",
+      "client": "Austin Independent School District",
+      "city": "Austin",
+      "state": "TX",
+      "status": "Completed",
+      "contractValue": 38400000,
+      "costToDate": 37900000,
+      "percentComplete": 100,
+      "startDate": "2025-05-19",
+      "plannedCompletion": "2026-08-07",
+      "forecastCompletion": "2026-08-03",
+      "actualCompletion": "2026-08-03",
+      "projectManager": "Hannah Brooks",
+      "generalContractor": "Lone Star Schools Construction",
+      "liquidatedDamagesPerDay": 3500,
+      "contractDocument": "BM-GC-2024 General Conditions",
+      "description": "Full modernization of a 1978 elementary school: new HVAC, classroom addition, secure entry vestibule and accessible playground, phased around the school year.",
+      "milestones": [
+        { "name": "Summer 2025 phase complete", "planned": "2025-08-08", "forecast": "2025-08-06", "actual": "2025-08-06" },
+        { "name": "Classroom addition enclosed", "planned": "2026-01-30", "forecast": "2026-01-23", "actual": "2026-01-23" },
+        { "name": "Substantial completion", "planned": "2026-08-07", "forecast": "2026-08-03", "actual": "2026-08-03" }
+      ],
+      "risks": []
+    },
+    {
+      "id": "BM-106",
+      "name": "Summit Ridge Apartments Phase 2",
+      "type": "Residential",
+      "client": "Summit Ridge Partners",
+      "city": "Denver",
+      "state": "CO",
+      "status": "At Risk",
+      "contractValue": 54900000,
+      "costToDate": 23400000,
+      "percentComplete": 41,
+      "startDate": "2025-09-08",
+      "plannedCompletion": "2027-03-26",
+      "forecastCompletion": "2027-04-02",
+      "actualCompletion": null,
+      "projectManager": "Tomás Alvarez",
+      "generalContractor": "Front Range Residential",
+      "liquidatedDamagesPerDay": 4500,
+      "contractDocument": "BM-GC-2024 General Conditions",
+      "description": "Two five-over-one buildings with 236 apartments, a podium parking garage and a clubhouse.",
+      "milestones": [
+        { "name": "Podium deck complete", "planned": "2026-02-13", "forecast": "2026-02-20", "actual": "2026-02-20" },
+        { "name": "Wood framing topped out", "planned": "2026-09-18", "forecast": "2026-09-25", "actual": "2026-09-25" },
+        { "name": "Building A dried in", "planned": "2026-11-20", "forecast": "2026-11-27", "actual": null },
+        { "name": "Final certificate of occupancy", "planned": "2027-03-26", "forecast": "2027-04-02", "actual": null }
+      ],
+      "risks": [
+        { "title": "Framing labor availability", "severity": "Medium" },
+        { "title": "Window delivery lead time", "severity": "Medium" }
+      ]
+    },
+    {
+      "id": "BM-107",
+      "name": "Metro Line 3 Station Upgrades",
+      "type": "Transit",
+      "client": "Valley Metro Rail",
+      "city": "Phoenix",
+      "state": "AZ",
+      "status": "Delayed",
+      "contractValue": 96300000,
+      "costToDate": 81200000,
+      "percentComplete": 79,
+      "startDate": "2024-10-14",
+      "plannedCompletion": "2026-09-25",
+      "forecastCompletion": "2027-01-29",
+      "actualCompletion": null,
+      "projectManager": "Aisha Bello",
+      "generalContractor": "Desert Transit Constructors",
+      "liquidatedDamagesPerDay": 15000,
+      "contractDocument": "BM-GC-2024 General Conditions",
+      "description": "Platform extensions, canopies, ADA upgrades and new train-control equipment rooms at six existing light-rail stations while the line stays in service.",
+      "milestones": [
+        { "name": "Stations 1-2 platform extensions", "planned": "2025-04-25", "forecast": "2025-06-13", "actual": "2025-06-13" },
+        { "name": "Utility relocations complete", "planned": "2025-07-31", "forecast": "2025-11-21", "actual": "2025-11-21" },
+        { "name": "Stations 3-6 platform extensions", "planned": "2026-05-29", "forecast": "2026-09-18", "actual": "2026-09-18" },
+        { "name": "Train-control integration testing", "planned": "2026-08-28", "forecast": "2026-12-18", "actual": null },
+        { "name": "Revenue service acceptance", "planned": "2026-09-25", "forecast": "2027-01-29", "actual": null }
+      ],
+      "risks": [
+        { "title": "Unmapped utilities found during excavation", "severity": "High" },
+        { "title": "Signal system integration with existing CBTC", "severity": "High" },
+        { "title": "Limited night track-access windows", "severity": "Medium" }
+      ]
+    },
+    {
+      "id": "BM-108",
+      "name": "Lakeside Water Treatment Plant Upgrade",
+      "type": "Water & Utilities",
+      "client": "Madison Water Utility",
+      "city": "Madison",
+      "state": "WI",
+      "status": "On Track",
+      "contractValue": 73600000,
+      "costToDate": 33900000,
+      "percentComplete": 47,
+      "startDate": "2025-01-13",
+      "plannedCompletion": "2027-06-30",
+      "forecastCompletion": "2027-06-30",
+      "actualCompletion": null,
+      "projectManager": "Samuel Nguyen",
+      "generalContractor": "Great Lakes Process Builders",
+      "liquidatedDamagesPerDay": 10000,
+      "contractDocument": "BM-GC-2024 General Conditions",
+      "description": "Capacity increase from 30 to 45 MGD with new membrane filtration, UV disinfection and a SCADA replacement, delivered with the plant in continuous operation.",
+      "milestones": [
+        { "name": "Membrane building foundations", "planned": "2025-08-29", "forecast": "2025-08-29", "actual": "2025-08-22" },
+        { "name": "Membrane building enclosed", "planned": "2026-05-15", "forecast": "2026-05-15", "actual": "2026-05-15" },
+        { "name": "Process equipment installed", "planned": "2027-01-29", "forecast": "2027-01-29", "actual": null },
+        { "name": "Performance testing complete", "planned": "2027-06-30", "forecast": "2027-06-30", "actual": null }
+      ],
+      "risks": [
+        { "title": "Tie-ins during plant shutdown windows", "severity": "Medium" }
+      ]
+    },
+    {
+      "id": "BM-109",
+      "name": "Oakwood Corporate Campus Building C",
+      "type": "Commercial Office",
+      "client": "Oakwood Technologies",
+      "city": "Raleigh",
+      "state": "NC",
+      "status": "At Risk",
+      "contractValue": 61000000,
+      "costToDate": 58100000,
+      "percentComplete": 95,
+      "startDate": "2025-02-03",
+      "plannedCompletion": "2026-11-20",
+      "forecastCompletion": "2026-12-02",
+      "actualCompletion": null,
+      "projectManager": "Rebecca Chen",
+      "generalContractor": "Triangle Commercial Builders",
+      "liquidatedDamagesPerDay": 7000,
+      "contractDocument": "BM-GC-2024 General Conditions",
+      "description": "Five-storey, 220,000 sq ft office building targeting LEED Gold, with a connecting bridge to Building B and a 900-space parking deck.",
+      "milestones": [
+        { "name": "Parking deck complete", "planned": "2025-09-19", "forecast": "2025-09-12", "actual": "2025-09-12" },
+        { "name": "Structure topped out", "planned": "2025-12-12", "forecast": "2025-12-12", "actual": "2025-12-12" },
+        { "name": "Curtain wall complete", "planned": "2026-06-26", "forecast": "2026-07-17", "actual": "2026-07-17" },
+        { "name": "Substantial completion", "planned": "2026-11-20", "forecast": "2026-12-02", "actual": null }
+      ],
+      "risks": [
+        { "title": "Punch-list volume on curtain wall sealant", "severity": "Medium" }
+      ]
+    },
+    {
+      "id": "BM-110",
+      "name": "Pinecrest Senior Living Center",
+      "type": "Senior Living",
+      "client": "Pinecrest Living Communities",
+      "city": "Charlotte",
+      "state": "NC",
+      "status": "On Hold",
+      "contractValue": 47500000,
+      "costToDate": 6200000,
+      "percentComplete": 12,
+      "startDate": "2026-02-16",
+      "plannedCompletion": "2027-09-24",
+      "forecastCompletion": "2027-11-19",
+      "actualCompletion": null,
+      "projectManager": "Grace Thompson",
+      "generalContractor": "Carolina Care Builders",
+      "liquidatedDamagesPerDay": 4000,
+      "contractDocument": "BM-GC-2024 General Conditions",
+      "description": "120-unit independent and assisted living community with a memory-care wing, commercial kitchen and wellness center.",
+      "milestones": [
+        { "name": "Site clearing and mass grading", "planned": "2026-05-08", "forecast": "2026-05-15", "actual": "2026-05-15" },
+        { "name": "Revised stormwater permit approved", "planned": "2026-07-31", "forecast": "2026-12-04", "actual": null },
+        { "name": "Foundations complete", "planned": "2026-10-16", "forecast": "2027-01-22", "actual": null },
+        { "name": "Final certificate of occupancy", "planned": "2027-09-24", "forecast": "2027-11-19", "actual": null }
+      ],
+      "risks": [
+        { "title": "Stormwater permit redesign required by county", "severity": "High" },
+        { "title": "Owner financing re-approval during suspension", "severity": "Medium" }
+      ]
+    }
+  ]
+}
